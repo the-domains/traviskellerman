@@ -1,7 +1,7 @@
 name: Traviskellerman
 favicon: null
-layout_spectrum: 0.44506634189747274
-typography_spectrum: 0.710270797368139
+layout_spectrum: 0.22804
+typography_spectrum: 0.26787
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#afd5aa'
+    - '#558989'
+    - '#00385c'
+    - '#006577'
   brandStrength: 0.816773941507563
-  lightness: 0.08121183607727289
+  lightness: 0.1875
   saturation: 0.12829113914631307
-  rhythmicContrast: 0.0947777722030878
+  rhythmicContrast: 0
 purpose: []
